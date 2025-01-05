@@ -34,10 +34,8 @@ Create a program that:
 ![image](https://github.com/user-attachments/assets/de15bad2-3808-4ae7-b126-588cb704691d)
 
 ## Languages and Concepts Used
--Java
--Classes,
--Attributes,
--Methods
+- Java
+- Classes, Attributes and Methods
 
 ## Actor
 Matheus Accorsi
