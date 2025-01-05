@@ -35,7 +35,9 @@ Create a program that:
 
 ## Languages and Concepts Used
 -Java
--Classes, Attributes,Methods
+-Classes,
+-Attributes,
+-Methods
 
 ## Actor
 Matheus Accorsi
